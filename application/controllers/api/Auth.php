@@ -20,7 +20,6 @@ class Auth extends BD_Controller
         $this->load->model('AdminModel');
         $this->load->model('PemesanModel');
 
-        $this->load->model('M_main');
     }
 
 
